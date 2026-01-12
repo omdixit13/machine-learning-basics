@@ -18,4 +18,8 @@ This repository documents my hands-on learning of Machine Learning fundamentals 
 - scikit-learn
 
 ## Purpose
-To build a strong Machine Learning base before moving into AI and LLM-based projects.
+To build a strong Machine Learning base before moving into AI and LLM-based projects. 
+  
+  
+  - Added basic NLP text vectorization using CountVectorizer.
+
