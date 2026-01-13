@@ -23,3 +23,4 @@ To build a strong Machine Learning base before moving into AI and LLM-based proj
   
   - Added basic NLP text vectorization using CountVectorizer.
 
+updated readme with text classification
